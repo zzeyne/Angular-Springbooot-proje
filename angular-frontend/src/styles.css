@@ -1,0 +1,62 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(14, 139, 137);
+    text-align: center;
+    color: rgb(4, 40, 87);
+}
+mat-form-field {
+    display: block;
+    margin-bottom: 16px;
+  }
+  
+  mat-card {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  mat-label {
+    font-weight: bold;
+    color: #03050a;
+  }
+  
+  input[matInput] {
+    color: #010108;
+    text-align: center;
+  }
+  .underline {
+    border-bottom: 2px solid rgb(122, 197, 18);
+    padding-bottom: 4px; /* Çizgi ile içerik arasındaki boşluk */
+  }
+  
+  mat-form-field {
+    display: block;
+    margin-bottom: 16px;
+  }
+  
+  body {
+    background-color: #edebeb; /* Buraya istediğin rengi gir */
+    margin: 0; /* Tarayıcı varsayılan boşlukları kaldır */
+    padding: 0; /* Tarayıcı varsayılan boşlukları kaldır */
+  }
+  h1 {
+    color: #0e2771; /* Buraya istediğin rengi gir */
+    font-size: 3em; /* İsteğe bağlı: Yazı boyutunu da değiştirebilirsin */
+  }
+  h2 {
+    color: #2190c4; /* İstediğin rengi buraya gir */
+    font-size: 1.5em; /* İsteğe bağlı: Yazı boyutunu değiştirebilirsin */
+    text-decoration: underline;
+  }
+  h3 {
+    color: #6a0479; /* İstediğin rengi buraya gir */
+    font-size: 1.5em; /* İsteğe bağlı: Yazı boyutunu değiştirebilirsin */
+    text-decoration: underline;
+  }
+  
+  
+  
